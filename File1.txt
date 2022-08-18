@@ -1,4 +1,0 @@
-Test QA rules
-Cool star
-Git is not so easy as I thought.
-Add Line
