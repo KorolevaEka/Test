@@ -19,9 +19,6 @@ user_name = driver.find_element(By.XPATH, "//input[@id='user-name']")
 user_name.send_keys(login_standard_user)
 print("Input_login")
 
-# time.sleep(5)
-# user_name.clear()
-
 password = driver.find_element(By.XPATH, "//input[@id='password']")
 password.send_keys(password_all)
 print("Input_password")
